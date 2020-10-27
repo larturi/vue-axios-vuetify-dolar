@@ -6,7 +6,7 @@
           <v-date-picker 
             v-model="fecha"
             full-width
-            locale="es-cl"
+            locale="es-es"
             :min="minimo"
             :max="maximo"
             @change="getDolar(fecha)"

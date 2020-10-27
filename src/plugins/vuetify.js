@@ -4,10 +4,10 @@ import 'vuetify/src/stylus/app.styl'
 
 Vue.use(Vuetify, {
   theme: {
-    primary: '#ee44aa',
+    primary: '#710bba',
     secondary: '#424242',
     accent: '#82B1FF',
-    error: '#FF5252',
+    error: '#ff6fa5',
     info: '#2196F3',
     success: '#4CAF50',
     warning: '#FFC107'
