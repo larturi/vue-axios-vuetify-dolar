@@ -1,4 +1,6 @@
-# axios-dolar
+# Cotización Dólar App
+
+### PoC with Vue.js & Vuetify
 
 ## Project setup
 ```
